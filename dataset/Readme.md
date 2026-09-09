@@ -67,5 +67,5 @@ One row = spend on one traffic source on one day.
 3. Clipped the two negative session durations to 0.
 4. Derived helper columns (`session_duration_sec`, month/week periods, cohort keys) used for the metrics in [`/charts`](../charts).
 
-Full step-by-step cleaning code is in [`notebook`](Businnes_analysis_ədalət_sadıqov.ipynb).
+Full step-by-step cleaning code is in ['notebook'](Businnes_analysis_ədalət_sadıqov.ipynb).
 
