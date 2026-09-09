@@ -15,8 +15,8 @@ End-to-end business analysis of an online store's user behavior, sales, and mark
 │   ├── *.png / *.html
 │   ├── generate_charts.py
 │   └── README.md
-└── notebook/           # full analysis notebook (cleaning → metrics → charts)
-    └── business_analysis_edalet_sadigov.ipynb
+└── business_analysis_edalet_sadigov.ipynb           # full analysis notebook (cleaning → metrics → charts)
+└── Readme.md
 ```
 
 - **[`/dataset`](dataset/README.md)** — what each file contains, column definitions, data quality notes, how the three tables join.
