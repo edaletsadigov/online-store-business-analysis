@@ -21,7 +21,7 @@ End-to-end business analysis of an online store's user behavior, sales, and mark
 
 - **[`/dataset`](dataset/README.md)** — what each file contains, column definitions, data quality notes, how the three tables join.
 - **[`/charts`](charts/README.md)** — every chart with its interpretation, plus the script to regenerate them.
-- **[`/notebook`](notebook)** — the full analysis: data cleaning, metric calculations, and chart-generating code in one place.
+- **[`notebook`](../Businnes_analysis_ədalət_sadıqov.ipynb)** — the full analysis: data cleaning, metric calculations, and chart-generating code in one place.
 
 ## Tech stack
 
