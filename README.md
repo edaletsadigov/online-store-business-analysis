@@ -16,6 +16,7 @@ End-to-end business analysis of an online store's user behavior, sales, and mark
 │   ├── generate_charts.py
 │   └── README.md
 └── business_analysis_edalet_sadigov.ipynb           # full analysis notebook (cleaning → metrics → charts)
+│
 └── Readme.md
 ```
 
